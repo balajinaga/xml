@@ -1,4 +1,4 @@
-package com.xml;
+package com.balaji.xml.parser;
 
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.XMLStreamConstants;

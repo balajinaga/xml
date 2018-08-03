@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <product id="1000">
+        <UPC>563402817</UPC>
+        <ItemDesc>Apple iPad (5th Generation) 128GB Wi-Fi Silver</ItemDesc>
+        <UnitPrice>349.00</UnitPrice>
+        <Category>Electronics-ipad</Category>
+    </product>
+    <product id="1001">
+        <UPC>565562211</UPC>
+        <ItemDesc>Mainstays Garden Floral Bed in a Bag Bedding Set</ItemDesc>
+        <UnitPrice>44.82</UnitPrice>
+        <Category>Bedding</Category>
+    </product>
+</Products>
